@@ -1,0 +1,5 @@
+{
+    "model": "gradientshap",
+
+    "whole_word": true
+}

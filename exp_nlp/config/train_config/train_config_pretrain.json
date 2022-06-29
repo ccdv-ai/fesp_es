@@ -1,0 +1,9 @@
+{
+
+    "test_size": 1024,
+    "batch_size": 16,
+    "max_len": 384,
+
+    "seed": 123,
+    "device": "cuda"
+}

@@ -1,0 +1,11 @@
+{
+    "model": "equalsurplus",
+
+    "block_size": 56,
+    "stride": 8,
+
+    "smoothing_degree": null,
+
+    "full_mask_only": false,
+    "circular_mask": false
+}

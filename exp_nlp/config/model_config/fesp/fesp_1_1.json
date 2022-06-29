@@ -1,0 +1,8 @@
+{
+    "model": "fesp",
+
+    "kernel": 1,
+    "stride": 1,
+    "whole_word": true
+
+}

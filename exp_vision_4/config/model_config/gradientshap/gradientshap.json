@@ -1,0 +1,6 @@
+{
+    "model": "gradientshap",
+
+    "n_reestimations": 64,
+    "zero_baseline": true
+}

@@ -1,0 +1,7 @@
+{
+    "model": "occlusion",
+
+    "kernel": 1,
+    "stride": 1,
+    "whole_word": true
+}
